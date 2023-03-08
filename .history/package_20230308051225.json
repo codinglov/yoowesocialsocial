@@ -1,0 +1,28 @@
+{
+  "name": "yoowesocialsocial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+    "dev": "nodemonin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinglov/yoowesocialsocial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codinglov/yoowesocialsocial/issues"
+  },
+  "homepage": "https://github.com/codinglov/yoowesocialsocial#readme",
+  "dependencies": {
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
