@@ -1,0 +1,21 @@
+# YooWeSocialSocial
+
+Welcome to a different kind of social media.
+
+## Summary
+
+YooWeSocialSocial is a social media site that enables single mothers in the neighborhood to socialize. YooWeSocialSocial uses Mongodb an express to store data allowing a limitless amount of storage and easy accessibility for developers.These app also allows you to post your thoughts and delete them at leisure both on your wall and your friends walls.
+
+## what was used
+
+- node 
+- node js
+- express
+- mongoose
+- mongodb
+
+
+## Author
+
+Laura Makokha
+https://github.com/codinglov

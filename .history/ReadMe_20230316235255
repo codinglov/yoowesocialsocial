@@ -1,0 +1,41 @@
+# YooWeSocialSocial
+
+Welcome to a different kind of social media.
+
+## Summary
+
+YooWeSocialSocial is a social media site that enables single mothers in the neighborhood to socialize. YooWeSocialSocial uses Mongodb an express to store data allowing a limitless amount of storage and easy accessibility for developers.These app also allows you to post your thoughts and delete them at leisure both on your wall and your friends walls.
+
+## what was used
+
+- node 
+- node js-debug
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [The OR Operator](#the-or-operator)
+- [Flags](#flags)
+
+
+## Regex Components
+
+### Anchors
+
+### Quantifiers
+
+### Grouping Constructs
+
+### Bracket Expressions
+
+### Character Classes
+
+### The OR Operator
+
+### Flags
+
+### Character Escapes
+
+## Author
+
+A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
