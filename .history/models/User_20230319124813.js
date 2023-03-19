@@ -12,7 +12,7 @@ const UserSchema = new Schema(
     Email: {
       type: String,
 
-      validate: () => 
+      validate: () 
       required: true,
       id: unique,
          

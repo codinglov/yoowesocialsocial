@@ -11,8 +11,7 @@ const UserSchema = new Schema(
 
     Email: {
       type: String,
-
-      validate: () => 
+      
       required: true,
       id: unique,
          
